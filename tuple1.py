@@ -1,0 +1,6 @@
+
+languages=("python","C","java",)
+print(languages)
+print(languages[1])
+print(languages[1:3])
+print(len(languages))
